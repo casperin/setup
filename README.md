@@ -12,10 +12,6 @@ Contains:
   * `"es6": true`
 * `babel-core`
 * `babel-preset-es2015`
-* `babel-preset-stage-0`
-* `browserify`
-* `babelify`
-* `watchify`
 
 EditorConfig:
 
